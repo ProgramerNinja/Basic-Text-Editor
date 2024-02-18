@@ -29,13 +29,13 @@
   ## Usage
 
   - After installing the application it is as easy as opening it up just as any  other application and using it to edit text.
-  - Deployed Project link -> 
-
+  - Deployed Project link -> [Just Another Text Editor](https://just-another-text-editor-liqb.onrender.com)
+  
       ![alt text](assets/Current_State.PNG)
 
   ## Credits
 
-  - I want to give a massive thanks to [Josh Slem](https://github.com/SlemJosh) as he was very instrumental in the functioning of this application.
+  - I want to give am absolutely massive thanks to [Josh Slem](https://github.com/SlemJosh) as he was very instrumental in the functioning of this application.
 
   ## License
 

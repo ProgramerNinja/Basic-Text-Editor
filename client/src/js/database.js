@@ -1,3 +1,4 @@
+// I want to give a big thanks to josh
 import { openDB } from 'idb';
 
 // Initialize the 'jate' database with an object store
@@ -21,6 +22,7 @@ export const putDb = async (content) => {
   const store = tx.objectStore('jate');
 
   // Using .put() to add or update data; will overwrite data at id: 1
+  //since we don't need multiple items here, we are just using it as a address to overwrite.
   const result = await store.put({ id: 1, value: content });
   console.log('Data saved to the database', result);
 };
